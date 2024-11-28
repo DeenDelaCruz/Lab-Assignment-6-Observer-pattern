@@ -32,3 +32,4 @@ Ensure that the implementation follows object-oriented design principles and pro
 
 
 UML:
+![alt text](uml.png)
